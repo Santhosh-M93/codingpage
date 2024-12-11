@@ -1,0 +1,14 @@
+.container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 80px;
+}
+.card {
+    color: white;
+    font-family: 'Bree Serif', serif;
+    background-color: #00000080;
+    padding: 40px;
+    border: 5px #48ee59 solid;
+}
